@@ -87,3 +87,5 @@ Radiation pattern and S-parameter analysis
 📄 Thesis Structure
 
 The detailed design principles, parametric studies, simulation results, and performance analysis for each antenna are available in the respective chapters of the thesis.
+
+This project was originally developed in 2022 as part of my Bachelor thesis. The GitHub repository was recreated later.
